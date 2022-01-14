@@ -1,0 +1,22 @@
+﻿  Source.cpp
+E:\repos\C++\ray_tracing\Source.cpp(23,31): warning C4244: return: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+E:\repos\C++\ray_tracing\Source.cpp(194,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\repos\C++\ray_tracing\Source.cpp(269,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\repos\C++\ray_tracing\Source.cpp(270,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\repos\C++\ray_tracing\Source.cpp(271,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\repos\C++\ray_tracing\Source.cpp(318,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\repos\C++\ray_tracing\Source.cpp(371,35): warning C4244: аргумент: преобразование "const double" в "const unsigned int", возможна потеря данных
+E:\repos\C++\ray_tracing\Source.cpp(371,15): warning C4244: аргумент: преобразование "const double" в "const unsigned int", возможна потеря данных
+E:\repos\C++\ray_tracing\Source.cpp(373,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\repos\C++\ray_tracing\Source.cpp(375,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\repos\C++\ray_tracing\Source.cpp(379,12): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+E:\repos\C++\ray_tracing\Source.cpp(379,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+  Previous IPDB not found, fall back to full compilation.
+  Создание кода
+  All 321 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ray_tracing.vcxproj -> E:\repos\C++\ray_tracing\Release\ray_tracing.exe

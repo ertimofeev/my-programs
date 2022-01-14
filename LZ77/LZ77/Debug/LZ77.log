@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\LZ77\LZ77\Source.cpp(100,13): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\user\source\repos\LZ77\LZ77\Source.cpp(100,13): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\user\source\repos\LZ77\LZ77\Source.cpp(100,13): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\user\source\repos\LZ77\LZ77\Source.cpp(100,13): message : этот аргумент используется в качестве размера буфера
+C:\Users\user\source\repos\LZ77\LZ77\Source.cpp(106,13): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\user\source\repos\LZ77\LZ77\Source.cpp(106,13): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\user\source\repos\LZ77\LZ77\Source.cpp(106,13): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\user\source\repos\LZ77\LZ77\Source.cpp(106,13): message : этот аргумент используется в качестве размера буфера
+C:\Users\user\source\repos\LZ77\LZ77\Source.cpp(156,35): warning C4244: =: преобразование "__int64" в "unsigned long", возможна потеря данных
+C:\Users\user\source\repos\LZ77\LZ77\Source.cpp(244,12): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\user\source\repos\LZ77\LZ77\Source.cpp(244,12): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\user\source\repos\LZ77\LZ77\Source.cpp(244,12): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\user\source\repos\LZ77\LZ77\Source.cpp(244,12): message : этот аргумент используется в качестве размера буфера
+  LZ77.vcxproj -> C:\Users\user\source\repos\LZ77\Debug\LZ77.exe

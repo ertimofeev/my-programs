@@ -1,0 +1,11 @@
+﻿  Source.cpp
+E:\repos\C++\sliders\Source.cpp(161,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\repos\C++\sliders\Source.cpp(163,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\repos\C++\sliders\Source.cpp(380,29): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\repos\C++\sliders\Source.cpp(382,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  0 of 23 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  sliders.vcxproj -> E:\repos\C++\sliders\Release\sliders.exe

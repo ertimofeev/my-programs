@@ -1,0 +1,2 @@
+E:\repos\C++\ray_tracing\Debug\ray_tracing.exe
+E:\repos\C++\ray_tracing\Debug\ray_tracing.pdb
